@@ -1,5 +1,5 @@
 # sql_ungroup
-Ungroup a table with total count
+--Ungroup a table with total count. 
 
 --Code for table creation
 
